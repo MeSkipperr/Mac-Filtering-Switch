@@ -1,0 +1,6 @@
+interface 1/1/1-1/1/8
+port-access port-security client-limit 8
+port-access port-security mac-address 00:24:32:24:cd:4b
+port-access port-security mac-address e4:a8:df:cd:71:fd
+port-access port-security enable
+exit
